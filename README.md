@@ -1,6 +1,4 @@
-### Hey 👋 I'm Ali
-
-
+### 
 <img src="https://github.com/syed-m-ali/syed-m-ali/blob/main/header.png" alt="banner that says Syed Ali - data analyst">
 
 - 🔭 I’m currently working on ...
